@@ -1,0 +1,1 @@
+__d(function(g,r,i,a,m,e,d){"use strict";Object.defineProperty(e,'__esModule',{value:!0}),Object.defineProperty(e,"default",{enumerable:!0,get:function(){return n}});var t=r(d[0]),u=r(d[1]);function n(){return(0,u.useEffect)(()=>{t.router.canGoBack()?t.router.back():t.router.replace('/account')},[]),null}},772,[798,12]);
